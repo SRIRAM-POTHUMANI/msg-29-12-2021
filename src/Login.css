@@ -1,0 +1,8 @@
+.logapp {
+  display: flex;
+  justify-content: center;
+  padding: 10rem 0 0 0;
+}
+.loginBut {
+  margin-top: 2rem;
+}

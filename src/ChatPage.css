@@ -1,0 +1,38 @@
+::-webkit-scrollbar {
+  width: 5px;
+  height: 15px;
+}
+
+::-webkit-scrollbar-track-piece {
+  background-color: #c2d2e4;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+  height: 30px;
+  background-color: #0a4c95;
+}
+.msg{
+    width: fit-content;
+}
+  .chat_message {
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    width: fit-content;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 40px;
+  }
+  .chat_reciever {
+    background-color: #0d6dfd35;
+    margin-left: auto;
+  } 
+  Modal{    
+    transition: 1s;
+}
+.card-header{
+  min-height: 40px;
+}
+.card-footer{
+  min-height: 40px;
+}
